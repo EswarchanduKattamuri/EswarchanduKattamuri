@@ -50,12 +50,10 @@ I love connecting with data folks, innovators, and curious minds. Feel free to r
 
 - Chat about turning analytics into impact  
 - Collaborate on data-driven side projects  
-- Share dashboard fails (and wins!)  
-- Talk AI, storytelling, or career pivots  
+- Share dashboard fails (and wins!)
 
 📫 **Email**: [eswarchandukattamuri@gmail.com]  
-🔗 **LinkedIn**: [linkedin.com/in/EswarchanduKattamuri](https://www.linkedin.com/in/EswarchanduKattamuri)  
-🐍 **Kaggle** or **Medium** coming soon...
+🔗 **LinkedIn**: [linkedin.com/in/EswarchanduKattamuri](https://www.linkedin.com/in/EswarchanduKattamuri) 
 
 ---
 
